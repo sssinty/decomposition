@@ -1,0 +1,62 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+.href-title {
+  color:rgb(7, 76, 203);
+}
+.list-news {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.item-list {
+  height: 20px;
+  display: flex;
+}
+.list-icon {
+  padding: 0 15px 0 0;
+  width: 18px;
+  height: 18px;
+}
+
+.title {
+  display: flex;
+  
+}
+.time-title {
+  margin: 16px 0 16px 0;
+}
+
+/* .exchange {
+  display: flex;
+} */
+
+.exchange-list {
+  padding: 0px;
+  display: flex;
+  margin: 0px;
+
+  list-style-type: none;
+}
+
+.bargaining {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  /* justify-content: flex-start; */
+}
+
+.topis-list {
+  display: flex;
+  list-style-type: none;
+}
+
+.visited-container {
+  display: flex; 
+  flex-direction: column;
+}
